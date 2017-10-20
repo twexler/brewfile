@@ -1,0 +1,8 @@
+cask '1password'
+cask 'google-chrome'
+cask 'iterm2'
+brew 'zsh'
+brew 'neovim'
+brew 'go'
+brew 'hub'
+brew 'python3'
