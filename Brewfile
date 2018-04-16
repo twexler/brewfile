@@ -1,5 +1,4 @@
 tap "homebrew/core"
-tap "homebrew/versions"
 tap "homebrew/boneyard"
 tap "homebrew/bundle"
 tap "homebrew/services"
